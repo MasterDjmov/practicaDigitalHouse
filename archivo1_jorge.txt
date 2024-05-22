@@ -1,7 +1,4 @@
 algo de contenido 1
-<<<<<<< HEAD
 para luego entrar en conflicto
-=======
 
 ultimos cambios que hago por ahora
->>>>>>> 6970252cb44ef24fcb62b059458861c40185fdd9

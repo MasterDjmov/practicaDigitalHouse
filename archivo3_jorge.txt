@@ -1,7 +1,4 @@
 algo de contenido 3
-<<<<<<< HEAD
 conflicto posible si toco este archivo
-=======
 
 mas tarde veo los otros cambios
->>>>>>> 6970252cb44ef24fcb62b059458861c40185fdd9
