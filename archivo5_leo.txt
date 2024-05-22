@@ -1,1 +1,1 @@
-sobre usar git
+sobre usar git y ahora punto 8 sobre conflicto
